@@ -1,6 +1,8 @@
 <p align="center"> <a href="https://jovial-wescoff-54050a.netlify.app/">LIVE VERSION</a></p>
 
-<p align="center"> gastby js, styled-components, hooks were used in this project. </p>
+<p align="center"> gastby js, styled-components, hooks were used in this project. 
+Course link: https://designcode.io/
+</p>
 
 <hr>
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
