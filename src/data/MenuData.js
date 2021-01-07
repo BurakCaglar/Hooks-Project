@@ -9,3 +9,9 @@ export const menuData = [
   { icon: "/images/icons/search.svg", link: "/search" },
   { icon: "/images/icons/account.svg", link: "/account" },
 ]
+
+export const toolTipData = [
+  { title: "Profile", icon: "/images/icons/profile.svg", link: "/profile" },
+  { title: "Settings", icon: "/images/icons/settings.svg", link: "/settings" },
+  { title: "Sign out", icon: "/images/icons/signout.svg", link: "/logout" },
+]
