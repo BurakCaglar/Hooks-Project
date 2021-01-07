@@ -1,4 +1,4 @@
-<a href="https://jovial-wescoff-54050a.netlify.app/">Live</a>
+<a href="https://jovial-wescoff-54050a.netlify.app/">LIVE VERSION</a>
 
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
