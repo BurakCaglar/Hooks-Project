@@ -1,5 +1,6 @@
-<a href="https://jovial-wescoff-54050a.netlify.app/">LIVE VERSION</a>
+<p align="center"> <a href="https://jovial-wescoff-54050a.netlify.app/">LIVE VERSION</a></p>
 
+<hr>
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.com">
